@@ -14,14 +14,9 @@ function ComponentePulsacion(){
             return <p>Este es un ejemplo 1</p>
           case 2:
             return <p>Este es un ejemplo 2</p>
-          case 3:
-            return <p>Este es un ejemplo 3</p>
-          case 4:
-              return <p>Este es un ejemplo 3</p>
-              case 5:
-              return <p>Este es un ejemplo 3</p>
+         
           default:
-            return <p>Este es parrafo no existe porfa repite de nuevo</p>
+            return <p> de nuevo develop</p>
     
         }
     
